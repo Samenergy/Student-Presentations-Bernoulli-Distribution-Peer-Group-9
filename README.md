@@ -17,6 +17,7 @@ The Bernoulli distribution models a single binary trial with two possible outcom
 ## Contents
 
 - `bernoulli_distribution.ipynb`: Jupyter notebook with the Python code and example
+- `slides.pdf`: The presentation slides explaining the Bernoulli distribution
 - `README.md`: This README file
 
 ---
